@@ -1,37 +1,61 @@
-## Welcome to GitHub Pages
+Dashboard
+Admin can view the total number of Business, branches, Net Points, Sent Points, Received points, users.
+ 
 
-You can use the [editor on GitHub](https://github.com/bitscollision/basketo/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+Merchant
+1.	Categories
+Admin can create/update/delete/view categories and admin can search manually.
+ 
+2.	Business
+Admin can create/update/delete/view business and assign categories to the business. Admin can search by category and manually as well.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ 
 
-### Markdown
+3.	Branch
+Admin can create/update/delete/view Branch and assign branch to the business. Admin can search by business and manually as well.
+ 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+4.	Business Timings
+Admin can create/update/delete/view business timings. Admin can search by business and manually as well
+ 
 
-1. Numbered
-2. List
+5.	Discounts
+Admin can create/update/delete/view Discount Percentage. Admin can search by business and manually as well  
 
-**Bold** and _Italic_ and `Code` text
+6.	Points
+Admin can create/update/delete/view points of business. Admin can search by business, business branch and manually as well.
+ 
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+7.	Consumed Points
+Admin can view user consumed points. Admin can search by user, business and Subscription.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bitscollision/basketo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+ 
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+8.	Earned Points
+Admin can view user Earned points. Admin can search by user, business and Subscription.
+ 
+
+9.	Business Images
+Admin can create/update/delete/view Business images of businesses. Admin can search by business manually as well.
+ 
+
+
+
+
+
+Settings
+1.	App Menus
+Admin can create/update/delete/view App Menus which is displaying. Admin can search manually.
+ 
+
+2.	Menus
+Admin can create/update/delete/view Menus which is displaying and set url. Admin can search manually.
+ 
+
+
